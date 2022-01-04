@@ -1,4 +1,4 @@
-![](https://github.com/karam084/online-course-website)
+![](https://github.com/karam084/Hello_Microverse)
 
 # Project Name
 
@@ -6,7 +6,7 @@ Hello Microverse
 
 > One paragraph statement about the project.
 
-![screenshot]()
+![screenshot](https://user-images.githubusercontent.com/77942746/148119885-38a70b00-672f-48d4-aec7-44136a1e9a6b.png)
 
 Additional description about the project and its features.
 
@@ -14,14 +14,6 @@ Additional description about the project and its features.
 
 - html and css
 - Visual studio and github
-
-## Live Demo
-
-[Live Demo Link]()
-
-### Deployment
-
-## Authors
 
 👤 **Author**
 
@@ -44,5 +36,3 @@ Give a ⭐️ if you like this project!
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
-
-## 📝 License
