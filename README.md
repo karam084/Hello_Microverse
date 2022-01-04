@@ -1,4 +1,4 @@
-![](https://github.com/karam084/online-course-website)
+![](https://github.com/karam084/Hello_Microverse)
 
 # Project Name
 
@@ -17,11 +17,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link]()
-
-### Deployment
-
-## Authors
+[Live Demo Link](https://github.com/karam084/Hello_Microverse)
 
 👤 **Author**
 
@@ -44,5 +40,3 @@ Give a ⭐️ if you like this project!
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
-
-## 📝 License
