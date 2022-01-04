@@ -6,8 +6,7 @@ Hello Microverse
 
 > One paragraph statement about the project.
 
-![screenshot](![Screenshot from 2022-01-04 22-28-37](https://user-images.githubusercontent.com/77942746/148119885-38a70b00-672f-48d4-aec7-44136a1e9a6b.png)
-)
+![screenshot](https://user-images.githubusercontent.com/77942746/148119885-38a70b00-672f-48d4-aec7-44136a1e9a6b.png)
 
 Additional description about the project and its features.
 
